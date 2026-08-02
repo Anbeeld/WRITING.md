@@ -46,11 +46,11 @@ The skill description is scoped to reader-facing prose, including articles, blog
 
 ### 3. Compact as agent/chat instructions
 
-[WRITING-compact.md](WRITING-compact.md) is the same rules at ~1400 words. Use as AGENTS.md or CLAUDE.md for writing agents, or as instructions in custom chats like GPTs and Gemini Gems. It keeps the core behavior, required checks, and a compressed watchlist while omitting full examples and diagnostics.
+[WRITING-compact.md](WRITING-compact.md) is the same rules at ~1500 words. Use as AGENTS.md or CLAUDE.md for writing agents, or as instructions in custom chats like GPTs and Gemini Gems. It keeps the core behavior, required checks, and a compressed watchlist while omitting full examples and diagnostics.
 
 ### 4. Mini as a section in AGENTS.md
 
-[WRITING-mini.md](WRITING-mini.md) is ~280 words and fits on one screen. The highest-impact behavior is compressed into eight imperative bullets. It is designed for a persistent section in global AGENTS.md or CLAUDE.md, where the rules stay present without dominating context.
+[WRITING-mini.md](WRITING-mini.md) is ~330 words and fits on one screen. The highest-impact behavior is compressed into eight imperative bullets. It is designed for a persistent section in global AGENTS.md or CLAUDE.md, where the rules stay present without dominating context.
 
 ## See also
 
