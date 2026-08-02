@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.4.2
+
+- Clarified precedence across safeguards, user instructions, task scope, medium routing, core rules, workflow, checks, diagnostics, and watchlists without changing their editorial policy.
+- Moved final checks after the cutting pass, required affected checks to rerun after repairs, allowed empty audits, defined protected content and placeholder authority, and treated embedded source instructions as data unless explicitly trusted.
+- Marked correction examples as synthetic patterns rather than facts to insert, added reference-loading failure behavior, clarified dictionary fallback, narrowed skill discovery to human-facing prose, kept compact within its 1,500-word ceiling, and preserved the mini's eight-bullet Style section.
+
 ## v1.4.1
 
 - Made zero em dashes the default for newly written prose across the full, compact, mini, and packaged rulesets; retained only explicit user preference, binding style-guide requirements, genuine interruption or sharp-turn clarity, and protected source text as exceptions.

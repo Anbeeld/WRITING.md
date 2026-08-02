@@ -55,5 +55,7 @@ The skill description is scoped to reader-facing prose, including articles, blog
 ## See also
 
 - [Anbeeld's Global AGENTS.md / CLAUDE.md](https://github.com/Anbeeld/AGENTS.md)
+- [Anbeeld's RESUME.md: AI Resume/CV Rules](https://github.com/Anbeeld/RESUME.md)
+- [Anbeeld's PROMPTING.md: AI Instruction Designer](https://github.com/Anbeeld/PROMPTING.md)
 
 [![Support my work!](https://anbeeld.com/images/support.jpg)](https://anbeeld.com/support)

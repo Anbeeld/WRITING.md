@@ -8,4 +8,4 @@
 - Remove comments, alternatives, placeholders, and editorial notes from publication-ready copy unless requested.
 - Do not append `What I changed`, change summaries, self-reviews, or confidence statements unless requested or useful to the deliverable.
 - Return rewrites and final copy without ceremonial prefaces.
-- For audits, quote the problem, state why it matters here, and give the smallest useful correction. Do not present taste as error.
+- For audits, permit an empty finding set. For each material finding, quote the problem, state why it matters here, and give the smallest useful correction. Do not present taste as error.

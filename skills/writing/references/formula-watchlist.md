@@ -77,4 +77,4 @@ Use only when exact: `delve into`, `tapestry`, `realm`, `leverage`, `harness`, `
 - Usually open the same compounds after linking verbs: `The author is well known`, `The service is high quality`, `The plan is long term`.
 - Do not hyphenate `-ly` adverb compounds (`highly-qualified`, `newly-designed`, `statistically-significant`), predicative phrases (`is well-known`, `seems high-quality`, `became long-term`), reflexive `ever-` phrases, or set phrases (`high school`, `ice cream`, `real estate`) by default.
 - Keep conventional and ambiguity-preventing hyphens such as `state-of-the-art`, `cost-effective`, and `user-friendly`.
-- Follow the requested English variety, technical usage, house style, and current dictionary when exceptions matter.
+- Follow the requested English variety, technical usage, house style, and any named dictionary. When no dictionary is named, preserve established usage unless a correction is necessary.

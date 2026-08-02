@@ -1,5 +1,7 @@
 ## Correction patterns
 
+Treat these as synthetic correction patterns, not facts to insert. Use replacement details only when the source or available evidence supports them. Otherwise apply the pattern with known material, mark the gap, or cut the unsupported claim.
+
 - Generic -> specific. Replace `The change had broad implications across the team` with `The change cut review time, but it also pushed more edge cases into the escalation queue.`
 - Puffery -> observable consequence. Replace `The project stands as a testament to the team's commitment to innovation` with `The project reduced the weekly handoff from three meetings to one written checklist.`
 - Administrative detail -> material detail. Replace `The revision changed the process` with `After the revision, decisions stopped being a silent queue in the background; someone had to choose what to slow down and what to push through.`
