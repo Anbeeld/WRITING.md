@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+- Added a Flemish (nl-BE) version of the ruleset in Dutch: `WRITING-vl.md`, `WRITING-vl-compact.md`, `WRITING-vl-mini.md`, and the packaged `skills/writing-vl` skill.
+- Added `flemish-norms.md` with Belgian Dutch standard-language rules, Netherlandic defaults to check, Belgian institutions, forms of address, letter conventions, number and date notation, spelling, compounds, and English calques.
+- Replaced the English watchlist, correction patterns, and compound-hyphenation rules with Dutch equivalents; added a language-variety core rule and required check.
+- Built `WRITING-vl.md` from the skill and its references in the same section order as `WRITING.md`, so the full ruleset and the packaged skill stay equivalent.
+
 ## v1.4.2
 
 - Clarified precedence across safeguards, user instructions, task scope, medium routing, core rules, workflow, checks, diagnostics, and watchlists without changing their editorial policy.
