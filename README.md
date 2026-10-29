@@ -52,6 +52,22 @@ The skill description is scoped to reader-facing prose, including articles, blog
 
 [WRITING-mini.md](WRITING-mini.md) is ~330 words and fits on one screen. The highest-impact behavior is compressed into eight imperative bullets. It is designed for a persistent section in global AGENTS.md or CLAUDE.md, where the rules stay present without dominating context.
 
+## Flemish version (nl-BE)
+
+The ruleset is also available in Dutch, adapted for Flemish readers (Belgian Dutch). All four formats exist and follow the same structure as the English ones:
+
+- [WRITING-vl.md](WRITING-vl.md): full ruleset
+- [WRITING-vl-compact.md](WRITING-vl-compact.md): compact version, under 1,500 words
+- [WRITING-vl-mini.md](WRITING-vl-mini.md): mini version, eight bullets
+- [/skills/writing-vl](skills/writing-vl): packaged skill; install it the same way as `skills/writing`
+
+The rules are written in Dutch. On top of the translated core, the Flemish version adds:
+
+- a reference file, `flemish-norms.md`, covering standard language versus tussentaal, Netherlandic defaults to check, Belgian institutions (`schepen`, `rijksregisternummer`, `ondernemingsnummer`), `u`/`je` address, letter conventions, number and date notation, spelling and compound words, and English calques
+- a Dutch watchlist of chatbot formulas and jargon (`Het is belangrijk om op te merken dat`, `naadloos`, `ontzorgen`, `Aarzel niet om contact op te nemen`)
+- Dutch hyphenation rules from the Woordenlijst Nederlandse Taal in place of the English compound rules
+- a sixteenth core rule and a fifteenth required check for language variety
+
 ## See also
 
 - [Anbeeld's Global AGENTS.md / CLAUDE.md](https://github.com/Anbeeld/AGENTS.md)

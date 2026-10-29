@@ -1,0 +1,34 @@
+## Correctiepatronen
+
+Behandel dit als synthetische correctiepatronen, niet als feiten om in te voegen. Gebruik vervangende details alleen wanneer de bron of het beschikbare bewijs ze ondersteunt. Pas het patroon anders toe met bekend materiaal, markeer het hiaat of schrap de bewering zonder onderbouwing.
+
+- Generiek -> specifiek. Vervang `De wijziging had brede implicaties voor het team` door `De wijziging verkortte de reviewtijd, maar duwde ook meer randgevallen naar de escalatiewachtrij.`
+- Opgeblazen -> waarneembaar gevolg. Vervang `Het project is een bewijs van de toewijding van het team aan innovatie` door `Het project bracht de wekelijkse overdracht terug van drie vergaderingen tot één geschreven checklist.`
+- Administratief detail -> wezenlijk detail. Vervang `De herziening veranderde het proces` door `Na de herziening waren beslissingen geen stille wachtrij op de achtergrond meer; iemand moest kiezen wat vertraagd werd en wat door mocht.`
+- Specificiteitstheater -> geverifieerde terughoudendheid. Vervang `De herziening van februari gaf het kader een nieuwe naam en herschreef de intake` door `De eerste herzieningen richtten zich op randgevallen bij de intake en op prioritering; laat de naam van de mijlpaal of de exacte bewoording weg als je die niet kunt verifiëren.`
+- Verborgen mechanisme -> waarneembaar gevolg. Vervang `De interne logica begreep eindelijk wat ertoe deed` door `Na de wijziging doken duidelijk irrelevante resultaten niet meer op in routinegevallen.`
+- Vage toeschrijving -> onderbouwde bewering. Vervang `Experts zeggen dat het nieuwe ontwerp het vertrouwen verbeterde` door `In de supportwachtrij daalden de klachten over facturatie nadat de prijstabel de limieten van de abonnementen niet langer verborg.` Noem elke bron en blijf binnen wat ze bewijst.
+- Causale overdrijving -> juiste verhouding. Vervang `Het nieuwe ontwerp dreef het vertrouwen omhoog` door een onderbouwde waarneming zoals `Na het nieuwe ontwerp daalden de vragen over terugbetalingen in de supportwachtrij.` Beweer niet dat het vertrouwen veranderde, tenzij het gemeten werd.
+- Toekomstige zekerheid -> timing met bron. Vervang `De volgende versie komt in april` door `De volgende versie staat gepland voor april, volgens de gepubliceerde roadmap.` Gebruik `gepland` voor voorlopige timing; schrap de datum anders.
+- Catalogus -> betoog. Vervang `Eerst kwam wijziging A, dan wijziging B, dan wijziging C` door `De belangrijke verschuiving was niet dat er meer onderdelen bijkwamen. Latere wijzigingen brachten eindelijk wrijving waar de eerste versie mensen liet meedrijven.`
+- Systeemrondleiding -> verweven betoog. Vervang één alinea voor `achtergrond`, één voor `proces`, één voor `impact` en dan een oordeel door één terugkerende beperking te volgen en de alinea's van elkaar te laten afhangen.
+- Gehaaste lineariteit -> ontwikkelde verhouding. Vervang `Het plan veranderde. De resultaten verbeterden. Het werkte dus` door `De resultaten verbeterden pas nadat de reviewwachtrij veranderde; daarom waren de eerdere cijfers misleidend.`
+- Hakkelig -> verbonden. Vervang `De term doet echt werk. Hij benoemt een patroon dat nog geen naam had` door `De term doet echt werk: hij benoemt een patroon dat nog geen naam had.`
+- Valse strakheid -> gedragen verhouding. Vervang `De onzekerheid is echt. Het zelfzekere register eromheen is een standaardinstelling` door `De onzekerheid is echt, maar het zelfzekere register eromheen is een standaardinstelling.`
+- Punt in plaats van streepje -> verhouding tussen zinsdelen. Vervang `Het bericht zou harder aankomen. Het zou bij het getal moeten stoppen en het gevolg rechtstreeks trekken` door `Het bericht zou harder aankomen als het bij het getal stopte en het gevolg rechtstreeks trok.`
+- Standaardgedachtestreepje -> expliciete verhouding. Vervang `De lancering liep vertraging op – de migratie bracht een fout in het schema aan het licht` door `De lancering liep vertraging op omdat de migratie een fout in het schema aan het licht bracht.`
+- Opgeblazen zekerheid -> behouden modaliteit. Behoud `De update kan dubbele meldingen verminderen`; verander het niet in `De update zal dubbele meldingen verminderen` zonder bewijs.
+- Verlies van toeschrijving -> behouden eigenaarschap. Behoud `De leverancier zegt dat de export volledig is`; beweer de volledigheid niet als feit van de verteller.
+- Opgeblazen reikwijdte -> exacte kwantor. Behoud `Sommige teams slaan deze stap over in dringende gevallen`; verander het niet in `Teams slaan deze stap over wanneer de deadline krap is` zonder onderbouwing.
+- Destructieve vereenvoudiging -> exacte term plus uitleg ter plaatse. Gebruik `De rate limit van de API, het maximale aantal verzoeken binnen een tijdsvenster, wordt elke minuut gereset` en houd daarna `rate limit` aan; vervang het niet overal door `gebruiksbeperking`.
+- Gefabriceerde menselijke aanwezigheid -> eerlijk gevolg. Vervang `We hebben allemaal al eens naar een leeg dashboard gestaard met dat zinkende gevoel` door `Een leeg dashboard vertelt de gebruiker niet of de gegevens vertraagd zijn, weggefilterd of ontbreken.`
+- Gefabriceerd haakje -> rechtstreekse bewering. Vervang `Het addertje onder het gras? De snellere werkwijze zorgt voor meer reviewwerk` door `De snellere werkwijze zorgt verderop voor meer reviewwerk.`
+- Vals bereik -> echte reikwijdte. Vervang `Van onboarding tot klantenbinding: de wijziging hertekende de hele klantreis` door de fasen die veranderden en het gevolg in elke fase.
+- Verzonnen bewijs -> onderbouwde waarde. Vervang `Vertrouwd door duizenden snelgroeiende teams` door een geverifieerd aantal of een aantoonbare mogelijkheid; schrap het anders.
+- Overbewerking -> bewuste niet-wijziging. Laat `De storing begon nadat het certificaat verlopen was` ongewijzigd wanneer de zin juist, duidelijk en passend voor het medium is.
+- Gelekte machinerie -> schone oplevering. Verwijder of vervang `[statistiek invoegen]`, `turn0search0`, `TBD`, interne notities en URL's van zoekresultaten.
+- Hollandse standaard -> Vlaamse standaard. Vervang `Kun je even je BSN en je mobiele nummer doorgeven? Groetjes!` in een Belgische dienstmail door `Kunt u uw rijksregisternummer en gsm-nummer bezorgen? Met vriendelijke groeten`.
+- Vertaald sjabloon -> gewone aanhef. Vervang `Ik hoop dat deze mail je goed vindt. Ik reik uit om ...` door de vraag zelf: `Ik heb een vraag over de offerte van 12 maart.`
+- Tussentaal -> standaardtaal. Vervang in een publieke tekst `Ge kunt uw pakske afhalen in de winkel` door `U kunt uw pakje afhalen in de winkel.` Behoud tussentaal alleen in citaten of in een gevraagde informele stem.
+- Engelse titelopmaak -> zinshoofdletters. Vervang de tussenkop `Hoe Je Een Offerte Aanvraagt` door `Een offerte aanvragen`.
+- Engelse spatie -> samenstelling. Vervang `De klanten service beantwoordt vragen over de software update` door `De klantendienst beantwoordt vragen over de software-update.`
